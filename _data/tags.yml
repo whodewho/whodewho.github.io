@@ -1,0 +1,33 @@
+- slug: algorithm
+  name: Algorithm
+
+- slug: interview
+  name: Interview
+
+- slug: c++
+  name: C++
+
+- slug: python
+  name: Python
+
+- slug: linux
+  name: Linux
+
+- slug: ml
+  name: Machine Learning
+
+- slug: jekyll
+  name: Jekyll
+
+- slug: webpy
+  name: web.py
+
+- slug: jquery
+  name: jQuery
+
+- slub: sae
+  name: SAE
+
+- slub: ab
+  name: Apache Benchmark
+

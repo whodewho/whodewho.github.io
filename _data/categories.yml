@@ -1,0 +1,19 @@
+- slug: programming
+  name: Programming
+  color: '#1abc9c'
+
+- slug: test
+  name: Test
+  color: '#0dfc03'
+
+- slug: system
+  name: System
+  color: '#35ab1a'
+
+- slug: research
+  name: Research
+  color: '#c0c040'
+
+- slug: other
+  name: Other
+  color: '#0819c7'

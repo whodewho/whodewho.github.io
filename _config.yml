@@ -1,0 +1,23 @@
+# Site settings
+title: kThinker
+email: chenkainp@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write to learn and share. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://kthinker.com" # the base hostname & protocol for your site
+twitter_username: kaiip
+github_username:  whodewho
+weibo_id: "1768113962"
+
+# Build settings
+highlighter: pygments
+mardown: rediscount
+
+permalink: /post/:title
+
+exclude: [README.md, TODO.md, LICENSE, node_modules, Makefile, Gulpfile.js, package.json]
+
+paginate: 5
+paginate_path: '/blog/:num'
+
+relative_permalinks: true
