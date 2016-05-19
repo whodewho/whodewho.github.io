@@ -10,7 +10,7 @@ github_username:  whodewho
 weibo_id: "1768113962"
 
 # Build settings
-highlighter: pygments
+highlighter: rouge 
 mardown: rediscount
 
 permalink: /post/:title
